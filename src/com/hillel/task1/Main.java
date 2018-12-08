@@ -1,9 +1,9 @@
 package com.hillel.task1;
 
 import com.hillel.task8.Scaner;
-import com.hillel2.Animals.Animal;
-import com.hillel2.Animals.ColorAnimal;
-import com.hillel2.Animals.Season;
+import com.hillel2.animals.Animal;
+import com.hillel2.animals.ColorAnimal;
+import com.hillel2.animals.Season;
 
 public class Main {
 

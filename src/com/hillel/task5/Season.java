@@ -1,6 +1,6 @@
 package com.hillel.task5;
 
-import com.hillel2.Randoms;
+import com.hillel2.cycles.Randoms;
 
 public class Season {
 
