@@ -1,11 +1,11 @@
 package com.hillel.task5;
 
-import com.hillel2.cycles.Randoms;
+import com.hillel.Ramdoms;
 
 public class Season {
 
     public static void main(String[] args) {
-    Randoms randoms = new Randoms();
+    Ramdoms randoms = new Ramdoms();
     for (int i = 1; i < 2; i++){
         int str = randoms.hashCode ();
         switch(str) {
